@@ -1,4 +1,13 @@
-### Hello there 👋
+### Hello there! Eu sou Santiago Barreto 👋
+
+- 🔭 Atualmente estou trabalhando como Desenvolvedor Front-End
+- 🌱 Atualmente estou estudando JavaScript
+-  ☺️ Gosto de ler e jogar jogos de estratégia
+- 👨‍💻 Sou técnico em informática a mais de 10 anos
+- 🗣️ Sou palestrante e instrutor de oratória
+- 📫 Você pode me encontrar aqui https://www.linkedin.com/in/santiago-barreto-dev/
+<br>
+<br>
 
 <div>
 <img height ="200em" src="https://github-readme-stats.vercel.app/api?username=SanX0000&show_icons=true&theme=tokyonight">
