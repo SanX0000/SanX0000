@@ -5,7 +5,7 @@
 -  ☺️ Gosto de ler e jogar jogos de estratégia
 - 👨‍💻 Sou técnico em informática a mais de 10 anos
 - 🗣️ Também sou palestrante e instrutor de oratória
-- 📫 Você pode me encontrar aqui https://www.linkedin.com/in/santiago-barreto-dev/
+- 📫 Você pode me encontrar aqui www.linkedin.com/in/santiago-barreto-x
 <br>
 <br>
 
