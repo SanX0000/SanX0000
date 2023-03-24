@@ -1,7 +1,7 @@
 ### Hello there! Eu sou Santiago Barreto 👋
 
 - 🔭 Atualmente estou trabalhando como Analista de Dados
-- 🌱 Estou estudando SQL e Python
+- 🌱 Estou estudando Python e Power BI
 -  ☺️ Gosto de ler e jogar jogos de estratégia
 - 👨‍💻 Sou técnico em informática a mais de 10 anos
 - 🗣️ Também sou palestrante e instrutor de oratória
